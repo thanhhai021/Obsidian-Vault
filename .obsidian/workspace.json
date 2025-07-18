@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4827f0f3af14ec4c",
+        "id": "0ee348c7653626ac",
         "type": "tabs",
         "children": [
           {
-            "id": "21c8ec9d2848c65e",
+            "id": "ac708c2e2893d11d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linh tinh/Lab.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab"
+              "title": "Tab mới"
             }
           }
         ]
@@ -54,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -176,30 +172,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b088f33b9f4103fe",
+  "active": "ac708c2e2893d11d",
   "lastOpenFiles": [
+    "previewImage.jpg",
+    "1.png",
+    "1 1.png",
+    "Chưa đặt tên.md",
+    "Pasted image 20250718132748.png",
+    "Ảnh",
+    "ấ.md",
+    "Hướng dẫn/Hướng dẫn ký clickonce.md",
+    "~$ hình Promox+Virtualizor 1.docx",
+    "Mô hình Promox+Virtualizor 1.docx",
+    "Hướng dẫn/Hướng dẫn cài SSL KH.md",
+    "Promox/7.png",
+    "Mô hình Promox+Virtualizor.docx",
+    "Docx",
+    "Promox/6.png",
+    "Promox/5.png",
+    "Promox/4.png",
+    "Promox/3.png",
+    "Promox/2.png",
+    "Promox/1.png",
+    "SSL/SSL Serial yubikey 5.md",
+    "Promox/Thư mục mới/Hướng dẫn cài SSL/Zimbra/Cài SSL Zimbra.docx",
+    "Promox/Thư mục mới/Hướng dẫn cài SSL/Zimbra",
+    "Promox/Thư mục mới/Hướng dẫn cài SSL/Plesk/Cài SSL Plesk.docx",
+    "Promox/Thư mục mới/Hướng dẫn cài SSL/Plesk",
+    "Promox/Thư mục mới/Hướng dẫn cài SSL/Nginx/Cài-SSL Nginx.docx",
+    "Linh tinh/Lab.md",
     "Thông tin/Quy trình Khách hàng báo không nhận được email.md",
     "Thông tin/Mail trả lời LIST SPAMRL.COM.md",
     "Lệnh-Script/Script Multisite WordPress.md",
-    "Mail",
     "SSL/SSL chữ ký Email.md",
-    "Hướng dẫn/Hướng dẫn cài SSL KH.md",
     "Lệnh-Script/Script  autossl sh.md",
-    "SSL/SSL Serial yubikey 5.md",
     "Thông tin/Thông tin Danh sách Tài khoản quản trị & hệ thống Megahost.md",
     "Thông tin/Lệnh grep.md",
-    "Linh tinh/Lab.md",
-    "Linh tinh",
-    "Lệnh-Script",
-    "SSL",
-    "Thông tin",
-    "Hướng dẫn",
     "Thao tác-Cài/Cài WordPress cent os 7.md",
     "Thao tác-Cài/Thao tác Xóa định dạng & Định dạng lại Disk Ceph.md",
     "Thao tác-Cài/Thao tác Allow Port.md",
     "Lỗi/Lỗi 403 Forbidden.md",
-    "Thao tác-Cài",
-    "Lỗi",
     "Lỗi/lỗi trong file functions php.md",
     "Lỗi/lỗi update pass database DA.md",
     "Lỗi/lỗi ssl web NINA.md",
@@ -207,9 +219,6 @@
     "Thông tin/Lệnh venv.md",
     "Thao tác-Cài/Thao tác bật Mdaemon SSL MAIL.md",
     "Lỗi/lỗi không remote navicat từ xa được.md",
-    "Lỗi/lỗi http-https.md",
-    "Lỗi/lỗi HTTP 500.md",
-    "Lỗi/lỗi Fatal Error do thiếu file theme.md",
-    "Thao tác-Cài/Thao tác change option php.md"
+    "Lỗi/lỗi http-https.md"
   ]
 }
