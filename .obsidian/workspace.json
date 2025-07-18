@@ -11,10 +11,14 @@
             "id": "ac708c2e2893d11d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Thông tin/Mail trả lời kh ko đúng chủ thể nhờ cài mail.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Mail trả lời kh ko đúng chủ thể nhờ cài mail"
             }
           }
         ]
@@ -174,10 +178,11 @@
   },
   "active": "ac708c2e2893d11d",
   "lastOpenFiles": [
+    "Chưa đặt tên.md",
+    "Thông tin/Mail trả lời kh ko đúng chủ thể nhờ cài mail.md",
     "previewImage.jpg",
     "1.png",
     "1 1.png",
-    "Chưa đặt tên.md",
     "Pasted image 20250718132748.png",
     "Ảnh",
     "ấ.md",
@@ -193,7 +198,6 @@
     "Promox/4.png",
     "Promox/3.png",
     "Promox/2.png",
-    "Promox/1.png",
     "SSL/SSL Serial yubikey 5.md",
     "Promox/Thư mục mới/Hướng dẫn cài SSL/Zimbra/Cài SSL Zimbra.docx",
     "Promox/Thư mục mới/Hướng dẫn cài SSL/Zimbra",
