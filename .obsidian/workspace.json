@@ -143,13 +143,23 @@
               "icon": "lucide-list",
               "title": "Đề cương"
             }
+          },
+          {
+            "id": "d2936f3c7118ad06",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,7 +168,8 @@
       "canvas:Tạo bảng mới": false,
       "daily-notes:Mở ghi chú hôm nay": false,
       "templates:Chèn mẫu": false,
-      "command-palette:Mở khay lệnh": false
+      "command-palette:Mở khay lệnh": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "21c8ec9d2848c65e",
