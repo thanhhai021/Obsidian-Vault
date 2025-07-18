@@ -1,0 +1,41 @@
+Cài One click PHPAdmin
+
+One click PHPAdmin
+
+cd /usr/local/directadmin/  
+./directadmin set one_click_pma_login 1  
+service directadmin restart  
+cd custombuild  
+./build update  
+./build phpmyadmin  
+./build rewrite_confs
+
+id: a26be8a129694d43a8419879c959b3dc
+parent_id: bc33dce65848438199af0fd3912185dd
+created_time: 2025-04-15T07:32:17.137Z
+updated_time: 2025-04-15T09:07:48.753Z
+is_conflict: 0
+latitude: 21.02776440
+longitude: 105.83415980
+altitude: 0.0000
+author: 
+source_url: 
+is_todo: 0
+todo_due: 0
+todo_completed: 0
+source: joplin-desktop
+source_application: net.cozic.joplin-desktop
+application_data: 
+order: 0
+user_created_time: 2025-04-15T07:32:17.137Z
+user_updated_time: 2025-04-15T09:07:48.753Z
+encryption_cipher_text: 
+encryption_applied: 0
+markup_language: 1
+is_shared: 0
+share_id: 
+conflict_original_id: 
+master_key_id: 
+user_data: 
+deleted_time: 0
+type_: 1
