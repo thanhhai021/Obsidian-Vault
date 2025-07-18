@@ -11,10 +11,14 @@
             "id": "21c8ec9d2848c65e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linh tinh/Lab.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Tab mới"
+              "title": "Lab"
             }
           }
         ]
@@ -172,6 +176,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21c8ec9d2848c65e",
-  "lastOpenFiles": []
+  "active": "b088f33b9f4103fe",
+  "lastOpenFiles": [
+    "Thông tin/Quy trình Khách hàng báo không nhận được email.md",
+    "Thông tin/Mail trả lời LIST SPAMRL.COM.md",
+    "Lệnh-Script/Script Multisite WordPress.md",
+    "Mail",
+    "SSL/SSL chữ ký Email.md",
+    "Hướng dẫn/Hướng dẫn cài SSL KH.md",
+    "Lệnh-Script/Script  autossl sh.md",
+    "SSL/SSL Serial yubikey 5.md",
+    "Thông tin/Thông tin Danh sách Tài khoản quản trị & hệ thống Megahost.md",
+    "Thông tin/Lệnh grep.md",
+    "Linh tinh/Lab.md",
+    "Linh tinh",
+    "Lệnh-Script",
+    "SSL",
+    "Thông tin",
+    "Hướng dẫn",
+    "Thao tác-Cài/Cài WordPress cent os 7.md",
+    "Thao tác-Cài/Thao tác Xóa định dạng & Định dạng lại Disk Ceph.md",
+    "Thao tác-Cài/Thao tác Allow Port.md",
+    "Lỗi/Lỗi 403 Forbidden.md",
+    "Thao tác-Cài",
+    "Lỗi",
+    "Lỗi/lỗi trong file functions php.md",
+    "Lỗi/lỗi update pass database DA.md",
+    "Lỗi/lỗi ssl web NINA.md",
+    "Lỗi/lỗi limmit php.md",
+    "Thông tin/Lệnh venv.md",
+    "Thao tác-Cài/Thao tác bật Mdaemon SSL MAIL.md",
+    "Lỗi/lỗi không remote navicat từ xa được.md",
+    "Lỗi/lỗi http-https.md",
+    "Lỗi/lỗi HTTP 500.md",
+    "Lỗi/lỗi Fatal Error do thiếu file theme.md",
+    "Thao tác-Cài/Thao tác change option php.md"
+  ]
 }

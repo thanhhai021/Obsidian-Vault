@@ -75,32 +75,3 @@ systemctl restart httpd
 echo "Cài đặt Nextcloud hoàn tất!"  
 echo " Truy cập http://yourdomain.com để tiếp tục cài đặt trên giao diện web."
 
-id: 6c2f4a2a1eb84028bdff77b0f3fec824
-parent_id: bc33dce65848438199af0fd3912185dd
-created_time: 2025-04-15T07:49:49.044Z
-updated_time: 2025-06-16T06:07:51.792Z
-is_conflict: 0
-latitude: 21.02776440
-longitude: 105.83415980
-altitude: 0.0000
-author: 
-source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin-desktop
-source_application: net.cozic.joplin-desktop
-application_data: 
-order: 0
-user_created_time: 2025-04-15T07:49:49.044Z
-user_updated_time: 2025-06-16T06:07:51.792Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
-share_id: 
-conflict_original_id: 
-master_key_id: 
-user_data: 
-deleted_time: 0
-type_: 1
